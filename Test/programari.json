@@ -1,0 +1,42 @@
+[
+  {
+    "pacient": {
+      "istoricMedical": [
+        "Hipertensiune"
+      ],
+      "nume": "Ion Popescu",
+      "cnp": "1234567890123"
+    },
+    "medic": {
+      "specializare": "Cardiologie",
+      "zileLucratoare": [
+        "Luni",
+        "Miercuri"
+      ],
+      "nume": "Dr. Ana Ionescu",
+      "cnp": "1234567899876"
+    },
+    "dataOra": "28/11/2024 10:30",
+    "stare": "Programat"
+  },
+  {
+    "pacient": {
+      "istoricMedical": [
+        "Diabet tip 2"
+      ],
+      "nume": "Maria Ionescu",
+      "cnp": "9876543210123"
+    },
+    "medic": {
+      "specializare": "Diabetologie",
+      "zileLucratoare": [
+        "Joi",
+        "Marți"
+      ],
+      "nume": "Dr. Mihai Popa",
+      "cnp": "6543219876543"
+    },
+    "dataOra": "29/11/2024 14:00",
+    "stare": "Programat"
+  }
+]

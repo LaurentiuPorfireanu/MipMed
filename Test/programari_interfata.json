@@ -1,0 +1,17 @@
+[
+  {
+    "pacient": {
+      "istoricMedical": [],
+      "nume": "dsfsfdsdf",
+      "cnp": "2222222222222"
+    },
+    "medic": {
+      "specializare": "neuro",
+      "zileLucratoare": [],
+      "nume": "231124",
+      "cnp": "2222222222222"
+    },
+    "dataOra": "10/10/2025 10:10",
+    "stare": "Programat"
+  }
+]

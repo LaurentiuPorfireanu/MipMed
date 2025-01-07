@@ -1,0 +1,17 @@
+[
+  {
+    "pacient": {
+      "istoricMedical": [],
+      "nume": "Ion Popescu",
+      "cnp": "1234567890123"
+    },
+    "medic": {
+      "specializare": "Cardiologie",
+      "zileLucratoare": [],
+      "nume": "Maria Ionescu",
+      "cnp": "9876543210123"
+    },
+    "dataOra": "12/12/2024 10:30",
+    "stare": "Programat"
+  }
+]
